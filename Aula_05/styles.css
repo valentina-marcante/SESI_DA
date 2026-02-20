@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+.menu{
+    height: 100px;
+    width: 100%;
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+}
