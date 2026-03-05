@@ -101,10 +101,45 @@ body {
 }
 
 .card-direito {
-    background-image: url('./gatinho.avif');
+    background-image: url('./img/gatinho.avif');
     background-size: cover;
     background-position: center;
     width: 50%;
     height: 100%;
     border-radius: 50px;   
+}
+
+.grupo-dicas{
+    display: flex;
+    width: 50%;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.grupo-dicas img{
+    width: 50%;
+    padding: 50px;
+}
+
+.dicas{
+    width: 50%;
+    padding: 50px;
+
+}
+
+.dicas h1{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+.dicas h2{
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+.dicas p{
+    font-size: 30px
+
 }
